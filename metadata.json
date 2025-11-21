@@ -1,0 +1,5 @@
+{
+  "name": "Orderbook Canyon",
+  "description": "A 3D immersive visualization of Bitcoin liquidity depth over time, rendering the order book as a flowing canyon.",
+  "requestFramePermissions": []
+}
