@@ -127,6 +127,14 @@ const App: React.FC = () => {
             <h1 className="text-3xl font-black tracking-tighter uppercase italic bg-clip-text text-transparent bg-gradient-to-r from-emerald-400 to-blue-500 drop-shadow-sm">
               Orderbook Canyon
             </h1>
+            <a
+              href="http://binance.com/join?ref=CNRPMAN"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 mt-2 text-xs font-semibold tracking-wide uppercase text-yellow-300 hover:text-white transition-colors"
+            >
+              Register Binance now with 10% commission save →
+            </a>
             <div className="flex items-center gap-3 mt-2">
               <span className={`backdrop-blur px-3 py-1 rounded-full text-xs font-mono border flex items-center gap-2 transition-colors ${isConnected ? 'bg-yellow-900/30 border-yellow-700/50 text-yellow-400' : 'bg-slate-800/80 border-slate-700 text-slate-400'}`}>
                 {isConnected ? <Wifi size={12} className="text-yellow-400 animate-pulse" /> : <WifiOff size={12} className="text-rose-400" />}

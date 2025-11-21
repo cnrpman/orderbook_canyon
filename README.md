@@ -8,6 +8,10 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1Jv3kQF8yzvrS0sdR8fVHyvFCrYErK41w
 
+## Binance Referral
+
+Register Binance now with 10% commission save: http://binance.com/join?ref=CNRPMAN
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
